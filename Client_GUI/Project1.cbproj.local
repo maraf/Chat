@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009/04/22 15:35:22.163.cpp,C:\Documents and Settings\jA\My Documents\RAD Studio\Projects\Unit1.cpp=O:\Documents\School\CTU\Y36API\CHAT\Client_GUI\Unit1.cpp</Transaction>
+    <Transaction>2009/04/22 15:35:22.163.h,C:\Documents and Settings\jA\My Documents\RAD Studio\Projects\Unit1.h=O:\Documents\School\CTU\Y36API\CHAT\Client_GUI\Unit1.h</Transaction>
+    <Transaction>2009/04/22 15:35:22.163.dfm,C:\Documents and Settings\jA\My Documents\RAD Studio\Projects\Unit1.dfm=O:\Documents\School\CTU\Y36API\CHAT\Client_GUI\Unit1.dfm</Transaction>
+    <Transaction>2009/04/22 15:35:29.991.cbproj,C:\Documents and Settings\jA\My Documents\RAD Studio\Projects\Project1.cbproj=O:\Documents\School\CTU\Y36API\CHAT\Client_GUI\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
